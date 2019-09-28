@@ -2,7 +2,7 @@
 
 Here is the planned program flow:
 CSV file is converted into Python dictionary object first:
-The `key` is the variable(x1,x2,...,xn and t or ) and `value` contains all the datapoints(rows in csv)
+The `key` is the variable(x1,x2,...,xn and y or column in CSV ) and `value` contains all the datapoints(rows in CSV)
 
 ```python
 # [] --> list, ()--> tuple
